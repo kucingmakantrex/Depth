@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DepthLock HiOS</string>
+    <string name="xposed_desc">Efek depth wallpaper di lock screen HiOS 15</string>
+    <string name="main_info">DepthLock HiOS (tahap 1)\n\nAktifkan modul ini di LSPosed, centang scope \"System UI\", lalu restart System UI atau reboot.\n\nEfek: karakter pada wallpaper tampil di depan jam lock screen.</string>
+</resources>
